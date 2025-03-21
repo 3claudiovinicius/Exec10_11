@@ -1,4 +1,4 @@
-##EXERC 10: Multiplicação em Assembly ARM
+# EXERC 10: Multiplicação em Assembly ARM
 
 Este projeto implementa uma função de multiplicação de 16 bits (`Mul16b`) em assembly para microcontroladores ARM Cortex-M, utilizando o IAR Embedded Workbench.
 
@@ -27,7 +27,7 @@ Este projeto implementa uma função de multiplicação de 16 bits (`Mul16b`) em
 * Otimizado para pequenos multiplicadores.
 * Handlers de interrupção padrão são loops infinitos.
 
-##EXERC 11: Fatorial em Assembly ARM Cortex-M
+# EXERC 11: Fatorial em Assembly ARM Cortex-M
 
 Este projeto implementa uma função de cálculo de fatorial em assembly para microcontroladores ARM Cortex-M, utilizando o IAR Embedded Workbench.
 
